@@ -1,0 +1,53 @@
+
+#map { 
+    height: 600px; 
+    width: 1000px;
+    background-color: hotpink;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 15px hotpink;
+}
+h1{
+    color: hotpink;
+    font-family: 'lemon', sans-serif;
+    background-color:white;
+    height: 40px; 
+    width: 570px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    text-shadow: 0 0 5px hotpink;
+}
+#map2 { 
+    height: 600px; 
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 15px hotpink;
+}
+p{height: 60px; 
+
+}
+.info {
+    padding: 6px 8px;
+    font: 14px/16px "lemon", sans-serif;
+    background: white;
+    background: "rgba(255,255,255,0.8)";
+    box-shadow: 0 0 15px hotpink;
+    border-radius: 4px;
+}
+.info h4 {
+    margin: 0 0 5px;
+    color: hotpink
+}
+.legend {
+    line-height: 18px;
+    color: #555;
+}
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
